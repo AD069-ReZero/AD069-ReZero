@@ -15,7 +15,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=CyberSecurity+Analyst+%7C+Penetration+Tester+%7C+Security+Researcher;Offensive+Security+%7C+Red+Teaming+%7C+CTF+Player;OSINT+%7C+Web+App+Security+%7C+Network+Pentesting;Future+CISO+in+the+Making+%F0%9F%8E%AF;Top+4%25+on+TryHackMe+%7C+107+Rooms+Completed+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Cybersecurity+Analyst+%26+Pentester;Offensive+Security+%7C+Red+Teaming;OSINT+%7C+Web+App+%7C+Network+Security;CTF+Player+%7C+Top+4%25+TryHackMe+%F0%9F%9A%80;Future+CISO+in+the+Making+%F0%9F%8E%AF)
 
 </div>
 
